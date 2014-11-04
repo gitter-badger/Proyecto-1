@@ -8,4 +8,4 @@ You can get information about our future projects at http://www.cinnamonworks.ne
 history
 -------
 
-Once upon a time...
+Once upon a time... there was a little group of people. 
