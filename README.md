@@ -8,4 +8,4 @@ You can get information about our future projects at http://www.cinnamonworks.ne
 history
 -------
 
-I'v
+Once upon a time...
