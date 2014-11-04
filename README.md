@@ -1,5 +1,6 @@
 about
 -----
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Koocachookies/Proyecto?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is just a test of using Github as respository of a Unity Project.
 
